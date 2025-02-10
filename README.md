@@ -25,7 +25,7 @@ width="750px"></p>
 To download the files inside the manifest file, use the following command:
 
 ```bash
-python -v -i path_to_manifest.tsv -o output_directory/ 
+python downloadHMP.py -v -i path_to_manifest.tsv -o output_directory/ 
 ```
 The downloaded data should be stored in `output_directory/`. _successful_manifest.tsv_ shows the list of files successfully found and retrieved while _failed_manifest.tsv_ shows the opposite.
 
