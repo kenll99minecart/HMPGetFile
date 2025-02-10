@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Retriving the manifest file in the [NIH Human Microbiome Project][HMPLink]
-To obtain the manifest file, after adding the files that you need into the shopping cart at the [hmpdacc portal][https://portal.hmpdacc.org/], go to **Cart** at the top right hand corner and a summary of all the files added are shown just like below. Press **download** and **File Manifest**. A _.tsv_ file should be downloaded.
+To obtain the manifest file, after adding the files that you need into the shopping cart at the [hmpdacc portal](https://portal.hmpdacc.org/), go to **Cart** at the top right hand corner and a summary of all the files added are shown just like below. Press **download** and **File Manifest**. A _.tsv_ file should be downloaded.
 
 <p align="center">
 <img src="./cart_screenshot.png" alt="Screenshot Cart"
