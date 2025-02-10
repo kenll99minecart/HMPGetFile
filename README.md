@@ -1,4 +1,4 @@
-![cart_screenshot](https://github.com/user-attachments/assets/3ca62ce2-b368-4c15-be44-4acf368f6ee9)# HMPGetFile: Simple Script to retrieve file from Human Microbiome Project Database
+# HMPGetFile: Simple Script to retrieve file from Human Microbiome Project Database
 A quick script to retrieve files from the [NIH Human Microbiome Project][HMPLink] in AWS S3 from Manifest File
 
 ## Running the script
